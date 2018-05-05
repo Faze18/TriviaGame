@@ -118,8 +118,8 @@ function answerSplash(){
     i++;
     if (i<questions.length){
     setTimeout(display, 4500);}
-    else{stats();}
-    questionNum++;
+    else{
+        setTimeout(stats, 4500);}
 
 }
 function display(){
