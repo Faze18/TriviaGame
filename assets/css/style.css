@@ -2,7 +2,7 @@ body{
     background-color: black;
     font-family: 'Roboto Mono', monospace;
     background-size: cover;
-    color:  rgb(59, 242, 102);
+    color:  rgb(9, 255, 128);
 
 
 }
@@ -10,7 +10,7 @@ body{
     text-align: center;
 }
 .timer{
-    color:  rgb(59, 242, 102);
+    color:  rgb(9, 255, 128);
     font-size:40px;
 }
 button{
@@ -39,7 +39,7 @@ h1{
 #question{
     font-family: 'Roboto Mono', monospace;
 
-    color:  rgb(59, 242, 102);
+    color:  rgb(9, 255, 128);
     font-size: 15pt;
     text-align: left;
 }
@@ -57,7 +57,7 @@ h2{
 }
 #answerSplash{
     font-family: 'Roboto Mono', monospace;
-    color:  rgba(2, 255, 61);
+    color:  rgb(9, 255, 128);
 
     font-size: 28pt;
     text-align: center;
