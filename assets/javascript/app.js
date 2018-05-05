@@ -1,5 +1,5 @@
 var questions = [{
-    question: "The first personal computer was the:",
+    question: "The first computer was the:",
     answers: ["Kenbak-1", "Apple 2", "Microsoft Home Comptuer", "The IBM Basic"],
     correctAnswer: "Kenbak-1"
 },
